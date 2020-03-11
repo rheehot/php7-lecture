@@ -9,7 +9,7 @@
 * [intermediate](https://github.com/pronist/phplec/tree/intermediate) - **PHP 7+ Programming: Intermediate**
 * [handbook](https://github.com/pronist/phplec/tree/handbook) - **PHP 7+ Programming: Handbook**
 
-## PHP 7+ Programming: Basic
+## PHP 7+ Programming: Handbook
 
 <p>
     <img src="https://github.styleci.io/repos/231129705/shield?branch=handbook" alt="StyleCI">

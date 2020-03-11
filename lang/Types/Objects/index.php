@@ -3,7 +3,7 @@
 // class Closure
 var_dump(function () {
 });
-var_dump(fn () => 'Hello, world');
+// var_dump(fn () => 'Hello, world');
 
 class MyClass
 {
@@ -12,8 +12,7 @@ class MyClass
 // class MyClass
 var_dump(new MyClass());
 // class class@anonymous
-var_dump(new class {
-});
+// var_dump(new class {});
 
 function foo()
 {
